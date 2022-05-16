@@ -7666,11 +7666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ordep\\source\\repos\\ToDoAPImpacta\\ToDoAPImpacta\\ToDoAPImpacta.csproj",
+      "projectUniqueName": "C:\\Users\\ordep\\Repos\\TOAPImpactaBack\\ToDoAPImpacta\\ToDoAPImpacta.csproj",
       "projectName": "ToDoAPImpacta",
-      "projectPath": "C:\\Users\\ordep\\source\\repos\\ToDoAPImpacta\\ToDoAPImpacta\\ToDoAPImpacta.csproj",
+      "projectPath": "C:\\Users\\ordep\\Repos\\TOAPImpactaBack\\ToDoAPImpacta\\ToDoAPImpacta.csproj",
       "packagesPath": "C:\\Users\\ordep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ordep\\source\\repos\\ToDoAPImpacta\\ToDoAPImpacta\\obj\\",
+      "outputPath": "C:\\Users\\ordep\\Repos\\TOAPImpactaBack\\ToDoAPImpacta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

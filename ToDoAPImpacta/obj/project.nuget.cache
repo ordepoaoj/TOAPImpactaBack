@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/cf8lYRyGFnd2o9gVzoYYfDO2cPeywHe93cokbogQCjBpEgS9TYxn23FNrbPAVdSkUkW1VSMVTe5i/UaR7yFQ==",
+  "dgSpecHash": "7i19PNGp/VqS8YjpuY0pExDSdbzGpjVm+jQbRT4HSXBJQ34ZXx224zgrxAnCIM3haJufXP4eu2Z/DPCqUwjh7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ordep\\source\\repos\\ToDoAPImpacta\\ToDoAPImpacta\\ToDoAPImpacta.csproj",
+  "projectFilePath": "C:\\Users\\ordep\\Repos\\TOAPImpactaBack\\ToDoAPImpacta\\ToDoAPImpacta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ordep\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ordep\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
